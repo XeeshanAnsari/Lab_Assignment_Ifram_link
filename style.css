@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.main-box{
+    width: 70%;
+    height: 900px;
+    background-color: #ffffff;
+    border: 2px solid black;
+    margin: 10px auto;
+}
+.logo{
+    width: 70%;
+    height: 150px;
+    margin: 0px auto;
+}
+.logo img{
+    width: 40%;
+    height: 150px;
+    float: right;
+}
+.navbar{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    width: 70%;
+    margin: 10px auto;
+}
+ul li{
+    display: inline;
+    padding: 8px 30px;
+}
+li a:link{
+      text-decoration: none;
+      color: dimgray;
+}
+.frame{
+    width: 100%;
+    height: 680px;
+
+}
+.post{
+    width: 70%;
+    height: 600px;
+    background-color: #ffffff;
+    border: 2px solid black;
+    margin: 10px auto;
+    padding: 20px 10%;
+}
+.post-img img{
+    width: 100%;
+
+}
+.post-disc{
+    width: 100%;
+    text-align: justify;
+    color: gray;
+
+}
+.post-footer{
+    width: 70%;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px auto;
+}
+.post-footer p{
+    text-align: justify;
+}
